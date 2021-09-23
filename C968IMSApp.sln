@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C968IMSApp", "C968IMSApp\C968IMSApp.csproj", "{370B5D73-47DB-4ACB-93BD-7EE62BD4C211}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{370B5D73-47DB-4ACB-93BD-7EE62BD4C211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{370B5D73-47DB-4ACB-93BD-7EE62BD4C211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{370B5D73-47DB-4ACB-93BD-7EE62BD4C211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{370B5D73-47DB-4ACB-93BD-7EE62BD4C211}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50A95241-A9D6-445F-B7D2-D4288F606CD7}
+	EndGlobalSection
+EndGlobal
